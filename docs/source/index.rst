@@ -12,7 +12,7 @@ SERP Docs
 
 
 
-Indices and tables
+Indices & tables
 ==================
 
 * :ref:`genindex`
